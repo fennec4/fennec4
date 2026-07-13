@@ -33,12 +33,12 @@ sharpening my skills in networking and cybersecurity — I build automation tool
 <img src="https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white" alt="virustotal"/>  
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=py,bash,js,c,docker,git,aws,mysql,mongodb,html,css,java,spring,linux,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,bash,js,c,mysql,mongodb,html,css,java,spring,docker,git,aws,linux,windows)](https://skillicons.dev)
 
 ---
 
 
-### projects
+### 🖥️ projects
 
 
 | project                                         | Link         |
@@ -52,7 +52,7 @@ sharpening my skills in networking and cybersecurity — I build automation tool
 
 ---
 
-### Certifications
+### 📃 Certifications
 
 <div>
 <img src="https://img.shields.io/badge/CCNA-0A66C2?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco CCNA"/>
