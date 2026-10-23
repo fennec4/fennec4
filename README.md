@@ -43,12 +43,12 @@ sharpening my skills in networking and cybersecurity — I build automation tool
 
 | project                                         | Link         |
 |-----------------------------------------------|----------------------------|
-| Active Directory lab                          | <a href="">Report</a>|
+| Active Directory lab                          | <a href="https://github.com/fennec4/Active-Directory-lab">Report</a>|
 | IDS python script                             | <a href="https://github.com/fennec4/Python-IDS">Link</a>|
-| SOAR EDR                                      | in progress|
-| Incident Response Planning and Execution      | in progress|
-| Case Management with TheHive                  | in progress|
-| Scripting and Automation for Threat Mitigation | in progress|
+| Construction companey website                 | <a href="https://ethyd-hb.dpglyez96tnpn.amplifyapp.com/">Link</a>|
+| OverTheWire Bandit CTF WriteUp                | <a href="https://github.com/fennec4/OverTheWire-Bandit-">Link</a>|
+| Java Car Management Systheme                  | <a href="https://github.com/fennec4/car-management-sys">Link</a>|
+| Java Video Downloader                         | <a href="https://github.com/fennec4/java-video-Downloader">Link</a>|
 
 ---
 
